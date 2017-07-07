@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   pradyumnac
+disqus_shortname:   pradyumnacster
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -39,10 +39,10 @@ disqus_shortname:   pradyumnac
 #bing-verify:
 #email:
 twitter:            pradyumnac
-#facebook:           username
+facebook:           pradyumnac
 github-url:         pradyumnac
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           pradyumnac
+#linkedin:           pradyumnac
 #xing:              username
 instagram:          pradyumnacster
 #lastfm:            username
@@ -52,7 +52,7 @@ instagram:          pradyumnacster
 #foursquare:        username
 #steam:              username
 #dribbble:          username
-#youtube:           username
+youtube:           pradyumnacster
 #youtube-channel:   channel
 #soundcloud:        username
 #weibo:             username
