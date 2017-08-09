@@ -3,9 +3,9 @@ layout: page
 title: About the Theme
 tags:
   - about
-  - Jekyll
-  - theme
-  - moon
+  - Pradyumna
+  - Python
+  - Devops
 date: {}
 comments: false
 published: true
@@ -40,5 +40,3 @@ I currently write for the following sites:
 * On Two Feet - A blog to docuemnt travel and backpacking related topics
 * The Next Wave - A blog discussing emerging technologies in very simple languages
 * My Personal Blog where I rant about anything and everything
-
-
