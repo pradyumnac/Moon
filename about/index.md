@@ -1,37 +1,44 @@
 ---
 layout: page
 title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+tags:
+  - about
+  - Jekyll
+  - theme
+  - moon
+date: {}
 comments: false
+published: true
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+## About Me
+Hola, dear visitor. I am Pradyumna, a Freelance Devops Engineer working on Python Stack. I am currently living in Kolkata. 
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+I love working on solution oriented future based technologies like Devops and Machine Learning. i am currently in the process of learnign Deeplearning myself but I do have some experience in Non-Determisitic Algorithm imoplementation during my Graduation project on Machine Vision)
 
-## Preview
+As personal projects, I have written a couple of page scrappers, Movies catalogers, portfolio management solutions that I use daily
 
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+## My Work
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## What I have worked on 
+* **Python** Web Developement (Django & Flask)
+* **UFT & Selenium Automation** solutions (For a US based Insurance Giant)
+* **Machine Learning** (Deep learning & Support Vector Machines algorithms)
+* **Full Stack Developement** (Python/Java, ORM, Postgres, Javascript)
+* Devops Consulting on Emerging technologies including **Docker** & **Automated Quality Assurance on Cloud** (Selenium Grid)
+* **Google App Engine** (Over the course, I found that the Google Stack is the cheapest way to host your scalable projects on the cloud - be it personal or enterprise projects)
+* Static Site Hosting using **Jekyll & Github Pages**
 
-## Getting Started
+## What I work on when I am not working (Pun Intended :) )
+* Electronics Product Design and DIY Hobby projects (though I have currently worked on hooby Projects in **Arduino**, **ESP8266(ARM)** and **RaspberryPi** and sensory, I plan to work on more of embedded projects
+* Trekking ( Trekking in the himalayas is one of my favourite activities - I feel my full self while trekking)
+* Violin Playing ( I have just started on with this - a few months but I love the In-The-Moment feeling while I fiddle)
+* Language Learnign ( Spanish 7 German as of now. I love learning languages as It gives us an insight of their underlying culture)
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+## My Blogs
+I currently write for the following sites:
+* On Two Feet - A blog to docuemnt travel and backpacking related topics
+* The Next Wave - A blog discussing emerging technologies in very simple languages
+* My Personal Blog where I rant about anything and everything
+
+
