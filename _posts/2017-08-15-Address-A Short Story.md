@@ -11,6 +11,8 @@ It has become a habit for me to take long walks. And by long, I mean really real
 
 Its pouring really hard now. Not a soul on the street. The pave ment drenched , the streets water logged as ever. Its become a habit for my city to never let go - if it pours , it stays and floods. The city has succummbed to a parasitic growth of inward migrations - people looking for jobs. But the iinfrustructure has barely been able to cope up. So it clings to what ever water it gets in its midst.
 
+![A Rickshaw Puller in a cold rainign night](/http://www.myguesthouse.com/chaturyatri/wp-content/uploads/2012/07/Kolkata-rains-001.jpg)
+
 A rickshaw is approaching in the main streat. Its tyres half submerged. The puller has got a plastic sheet on top of his head but it is barely able to keep him dry. His sight is forward. Ignoring any passengers who might wish to stop it. In a frantci attemp, its wheels half submerged , the chariot of the puller is rushing towards its destination. Who knows where. Most posibly home where his wife and perhaps a choir of three hungry mouth awaits his homecoming.
 
 for the last five minutes in my stroll, I have met no one outdoors save this poor drenched man. However, a thpought kept lingering me - the eyes which arent there tries to fixate on another pair belonging to a fellow drenched soul. Someone is definitely out there. yet, when I turn aoundd, look about, I see no one, nothing save a drenched jungle of bricks and stones, some street lamps and occasional sign board with a false set of eyes. Billboards dont see, they dont hear. They only speak. They whisper in your ears. Promise of happiness untold, a dreams within your reach. An address of your own amist the luxuries of sprewing laws and gleaming pools. 
