@@ -1,5 +1,15 @@
 ---
 published: true
+layout: post
+date: 2017-08-15T00:00:00.000Z
+excerpt: Address - A short story on destinations and belonging
+tag:
+  - Address
+  - Home
+  - Destination
+  - Human Life
+  - City Life
+comments: true
 ---
 ![In the rains somewhere in Kolkata](https://s-media-cache-ak0.pinimg.com/736x/db/95/d7/db95d72d460cf583b966448a1423465a--rain-fall-rain-drops.jpg)
 
