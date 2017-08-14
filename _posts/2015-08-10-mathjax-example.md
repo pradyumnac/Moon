@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MathJax Example
-date: {}
+date: 2016-03-15T00:00:00.000Z
 excerpt: MathJax Example for Moon Jekyll Theme.
 tag:
   - markdown
