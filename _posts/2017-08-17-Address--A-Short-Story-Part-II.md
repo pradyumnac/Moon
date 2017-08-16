@@ -2,7 +2,7 @@
 layout: post
 title: Address- A Short Story-Part II
 ---
-"Want some candy?" Said I, reaching into my pocket - my hand brushing against a cold wrapped lollipop.
+"Want some candy?" Said I, reaching into my pocket - my hand brushing against a cold wrapper of lollipop.
 
 She took it from my hand, without a word. We are stolling, rather slowly in the rain towards the establishment that might just get her to her parents. 
 
