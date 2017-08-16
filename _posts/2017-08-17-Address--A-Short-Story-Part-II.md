@@ -11,4 +11,18 @@ She seemed a bit too tired though rather happy with the snail like oace we are s
 
 We reached the station - rather alive in lights as if an establishment that never sleeps. 
 
-A couple of Jeep's like on their back at one side by the door, all to close to the building. Perhaps someone does not like getting wet after all
+A couple of Jeep's like on their back at one side by the door, all too close to the building. Perhaps someone does not like getting wet after all
+
+We entered the building, dripping over. A man, in his mid forties, presumably the constable, was not looking too pleased at our state. He looked at us and then the chair and at us, some more..
+
+I lifted her up and say her at a side bench
+
+"Namaste sir. I was walking by the road a couple of blocks back and I found her out in the open soaking in rain. No one else was anywhere to be seen. Can you please help me find her parents? She might be lost". I stood beside the chair in front of his desk. 
+
+He looked up slowly and after a brief moment said: "Please take a seat"
+
+I looked at her, she lost in thought. Or too tired, perhaps. I took the seat
+
+"Naren, bring her a glass of hot mil from Ramu's". Naren, not too pleased on the course of action set upon him, looked at me. "Who the hell walks about in this God forsaken rain?" He murmured under his breath. I took out his XL size umbrella and stepped out. Apparently, he knew better than to dispute with his sir. 
+
+"Where did you find her?"
