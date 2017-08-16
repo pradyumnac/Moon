@@ -2,7 +2,7 @@
 published: true
 layout: post
 date: 2017-08-15T00:00:00.000Z
-excerpt: Address - A short story on destinations and belonging
+excerpt: Address - A short story on destinations and belonging to
 tag:
   - Address
   - Home
